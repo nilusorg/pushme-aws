@@ -1,4 +1,4 @@
-require 'aws-sdk'
+require 'aws-sdk-sns'
 
 require 'pushme/aws/version'
 
@@ -103,7 +103,7 @@ module Pushme
       end
 
       def region
-        @config[:region] ||
+        @config[:region]
       end
     end
   end
