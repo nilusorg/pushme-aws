@@ -1,6 +1,9 @@
 # Pushme::Aws
 
-Add some basic feature to deal with push notifications through [AWS SNS Mobile Push Notification Service](https://docs.aws.amazon.com/sns/latest/dg/SNSMobilePush.html) using AWS SDK v2.
+
+#### :warning: IMPORTANT! This gem is in an very early stage, a lot of the features or logic in it is going to be change a lot in the next iterations
+
+Add some basic features to deal with push notifications through [AWS SNS Mobile Push Notification Service](https://docs.aws.amazon.com/sns/latest/dg/SNSMobilePush.html) using AWS SDK v2.
 
 ## Installation
 
